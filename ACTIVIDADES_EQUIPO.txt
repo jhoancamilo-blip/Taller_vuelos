@@ -1,0 +1,2 @@
+Developer2 - iban andres rivera gomez 2:
+Implementó la identificación de vuelos con baja ocupación, el almacenamiento de resultados, el ordenamiento, el cálculo del ingreso global y el reporte final.
